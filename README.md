@@ -14,5 +14,4 @@ The details about this repository are in [this article](https://dev.to/takakd/de
 
 ## License 
 
-The license of the app codes following [heroku/alpinehelloworld](https://github.com/heroku/alpinehelloworld)
-Other codes are MIT.
+The license of the app codes following [heroku/alpinehelloworld](https://github.com/heroku/alpinehelloworld). Other codes are MIT.
