@@ -6,7 +6,7 @@ The app codes base on [heroku/alpinehelloworld](https://github.com/heroku/alpine
 
 ## Modified
 
-Modified test codes in [`webapp/tests.py`](webapp/test.py) because the test failed in my environment.
+Modified test codes in [`webapp/tests.py`](webapp/tests.py) because the test failed in my environment.
 
 ## Details
 
